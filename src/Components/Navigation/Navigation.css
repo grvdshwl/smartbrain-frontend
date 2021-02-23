@@ -1,0 +1,6 @@
+.navigation{
+
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 5px;
+}
